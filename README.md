@@ -1,3 +1,5 @@
+![Screenshot (33)](https://github.com/user-attachments/assets/2aa17603-430a-4c11-ac95-a7263662ec60)
+
 This Game's every single function's detailed explaination  
 
  **Global Variables**
