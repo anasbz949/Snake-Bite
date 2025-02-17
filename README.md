@@ -14,10 +14,10 @@ This Game's every single function's detailed explaination
 3. **`Color darkGreen = {43, 51, 24, 255};`**
    - Similar to `green`, this is another color, used for snake and other graphical elements.
 
-4. **`int cellSize = 30;`**
+4. **`int cellSize = 25;`**
    - Defines the size of a single cell in the grid in pixels.
 
-5. **`int cellCount = 25;`**
+5. **`int cellCount = 20;`**
    - Defines the total number of cells in a row or column of the grid.
 
 6. **`int offset = 75;`**
